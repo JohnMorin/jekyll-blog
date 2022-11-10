@@ -9,6 +9,7 @@ featured: true
 categories:
   - travel
   - life
+  - bali
 featured_image: https://source.unsplash.com/random?sig=7
 seo:
   title:
